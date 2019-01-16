@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "cheerio": "*",
+        "sync-request": "*"
+    }
+}
